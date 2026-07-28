@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=E85D9C&center=true&vCenter=true&width=500&lines=hi%2C+i'm+riya+%E2%9C%A8;AI+%2F+ML+student+%F0%9F%8E%80;building+cute+%26+clever+things+%F0%9F%92%BB" alt="Typing SVG" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E3,100:D9A7F0&height=120&section=header" width="100%"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=E85D9C&center=true&vCenter=true&width=500&lines=hi%2C+i'm+riya+%E2%9C%A8;AI+%2F+ML+student+%F0%9F%8E%80;building+cute+%26+clever+things+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
-
 ### 🎀 about me
 AI & ML student who likes turning messy ideas into clean, working things. Comfy with **Java** for logic + DSA, and building **web apps** with a soft spot for good UI. Currently leveling up toward *software engineer, AI edition* 🌸
-
 <br>
 
 ### 💌 tech stack
