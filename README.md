@@ -1,84 +1,47 @@
-<div align="center">
+# hey, i'm riya 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=E85D9C&center=true&vCenter=true&width=500&lines=hi%2C+i'm+riya+%E2%9C%A8;AI+%2F+ML+student+%F0%9F%8E%80;building+cute+%26+clever+things+%F0%9F%92%BB" alt="Typing SVG" />
+AI/ML student who'd rather build something than talk about building something.
 
-</div>
+I write Java when I need things to actually work, and JavaScript/TypeScript when I want them to also look good. Currently deep in the "teach the computer to think" phase of my life — send help, or don't, I've got this.
 
-<br>
+## tech stack
 
-<table width="100%">
-<tr>
-<td width="35%" align="center" valign="top">
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![riya.me](https://img.shields.io/badge/🖼️_riya.me-FFD1DC?style=for-the-badge&labelColor=FFD1DC&color=FFD1DC)
+## a few things i've built
 
-<img src="https://avatars.githubusercontent.com/u/190970363?v=4" width="180" style="border:4px solid #E85D9C; border-radius:6px;" />
+- **Sentinel** — a full-stack error tracking & uptime monitoring platform (basically my own mini Datadog). Ingests runtime errors and health checks, evaluates alert rules in real time, fires Slack notifications, and shows it all on a live Next.js dashboard with WebSocket updates. JWT auth, Dockerized top to bottom, CI/CD to a VPS with Nginx + HTTPS. Built it, tested it, shipped it — no drama.
+- **Job Board** — because job hunting was already annoying enough without a bad UI
+- **F1 Strategy** — data deciding pit stops so I don't have to yell at the TV
+- **Goodreads Redesign** — Goodreads deserved better, I delivered
+- **AI-canvas** — a JS playground for when I feel like being creative on purpose
+- **TrialMatch** — matching patients to clinical trials, no cap
+- **Safe Route Recommendation** — getting you home safe, one algorithm at a time
 
-`riya.png — 180x180`
+## currently
 
-</td>
-<td width="65%" valign="top">
+learning new ML tricks, fixing old code I'm mildly embarrassed by, and always down to collab if the idea's good.
 
-![aboutme.txt](https://img.shields.io/badge/📝_aboutme.txt-F5C2E7?style=for-the-badge&labelColor=F5C2E7&color=F5C2E7)
+## reach me
 
-```
-RIYA PANJWANI
-AI / ML Student · India
+📧 riyapanjwani8020@gmail.com
+💼 [linkedin.com/in/riya-panjwani-9b1b8a357](https://www.linkedin.com/in/riya-panjwani-9b1b8a357)
 
-I like turning messy ideas into
-clean, working things ✨
-
-- Java for logic & DSA
-- building web apps w/ good UI
-- leveling up: software engineer,
-  AI edition 🌸
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-![techstack.skills](https://img.shields.io/badge/🛠️_techstack.skills-F8BBD0?style=for-the-badge&labelColor=F8BBD0&color=F8BBD0)
-
-```
-Java          ♥ ♥ ♥ ♥ ♡
-Python        ♥ ♥ ♥ ♥ ♥
-JavaScript    ♥ ♥ ♥ ♥ ♡
-React         ♥ ♥ ♥ ♡ ♡
-HTML / CSS    ♥ ♥ ♥ ♥ ♥
-Node.js       ♥ ♥ ♥ ♡ ♡
-Git           ♥ ♥ ♥ ♥ ♡
-```
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-![currently.exe](https://img.shields.io/badge/💭_currently.exe-FADADD?style=for-the-badge&labelColor=FADADD&color=FADADD)
-
-```
-> learning new ML tricks
-> polishing old projects
-> always down to collab 🎀
-```
-
-</td>
-<td width="50%" valign="top">
-
-![contact.me](https://img.shields.io/badge/📮_contact.me-FCE4EC?style=for-the-badge&labelColor=FCE4EC&color=FCE4EC)
-
-[![Gmail](https://img.shields.io/badge/Gmail-FFC1CC?style=flat-square&logo=gmail&logoColor=8B004F)](mailto:riyapanjwani8020@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D8B4E2?style=flat-square&logo=linkedin&logoColor=4B0082)](https://www.linkedin.com/in/riya-panjwani-9b1b8a357)
-[![GitHub](https://img.shields.io/badge/GitHub-F5C2E7?style=flat-square&logo=github&logoColor=6C3483)](https://github.com/riyahref)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E3,100:F5C2E7&height=80&section=footer" width="100%"/>
-</div>
+if you're reading this far into a github readme, we're basically friends now.
