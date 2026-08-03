@@ -1,47 +1,92 @@
-# hey, i'm riya 👋
+<h1 align="center">Hi 👋, I'm Riya Panjwani</h1>
+<h3 align="center">AI/ML Enthusiast | MERN Stack & Backend Developer</h3>
 
-AI/ML student who'd rather build something than talk about building something.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+MERN;Exploring+Machine+Learning+%26+AI;Writing+clean+backend+logic+in+Java+%26+Node.js;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
 
-I write Java when I need things to actually work, and JavaScript/TypeScript when I want them to also look good. Currently deep in the "teach the computer to think" phase of my life — send help, or don't, I've got this.
+---
 
-## tech stack
+### 👩‍💻 About Me
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- 🎓 **AI & Machine Learning student** building practical, real-world applications
+- 🌐 Full-stack developer comfortable across the **MERN stack** (MongoDB, Express, React, Node.js)
+- 🛠️ Strong backend fundamentals — REST APIs, databases, authentication, and server-side logic
+- 🤖 Passionate about **machine learning models, data-driven solutions, and intelligent systems**
+- ☕ Core programming & DSA in **Java**, scripting & ML in **Python**
+- ✨ Actively growing as a **software engineer with AI expertise**
 
-## a few things i've built
+---
 
-- **Sentinel** — a full-stack error tracking & uptime monitoring platform (basically my own mini Datadog). Ingests runtime errors and health checks, evaluates alert rules in real time, fires Slack notifications, and shows it all on a live Next.js dashboard with WebSocket updates. JWT auth, Dockerized top to bottom, CI/CD to a VPS with Nginx + HTTPS. Built it, tested it, shipped it — no drama.
-- **Job Board** — because job hunting was already annoying enough without a bad UI
-- **F1 Strategy** — data deciding pit stops so I don't have to yell at the TV
-- **Goodreads Redesign** — Goodreads deserved better, I delivered
-- **AI-canvas** — a JS playground for when I feel like being creative on purpose
-- **TrialMatch** — matching patients to clinical trials, no cap
-- **Safe Route Recommendation** — getting you home safe, one algorithm at a time
+### 🛠️ Tech Stack
 
-## currently
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-learning new ML tricks, fixing old code I'm mildly embarrassed by, and always down to collab if the idea's good.
+---
 
-## reach me
+### 📊 GitHub Stats
 
-📧 riyapanjwani8020@gmail.com
-💼 [linkedin.com/in/riya-panjwani-9b1b8a357](https://www.linkedin.com/in/riya-panjwani-9b1b8a357)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riyahref&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyahref&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-if you're reading this far into a github readme, we're basically friends now.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyahref&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyahref&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🖼️ **[AI-canvas](https://github.com/riyahref/AI-canvas)** — creative JavaScript-based canvas project
+- 🏧 **[ATM Machine (Java)](https://github.com/riyahref/ATMmachine-java-project)** — core Java OOP & backend logic project
+- 📚 **[Goodreads Redesign](https://github.com/riyahref/goodreads-redesign-)** — UI/UX focused redesign
+- 📸 **[New Photobooth](https://github.com/riyahref/newphotobooth)** — interactive JavaScript app
+- 🛣️ **[Safe Route Recommendation](https://github.com/riyahref/safe-route-recommendation)** — TypeScript project using data/ML-driven recommendations
+
+---
+
+### 📫 Connect With Me
+
+<p>
+  <a href="mailto:riyapanjwani8020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/riya-panjwani-9b1b8a357" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/riyahref" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riyahref&label=Profile%20Views&color=61DAFB&style=for-the-badge" alt="riyahref profile views" />
+</p>
